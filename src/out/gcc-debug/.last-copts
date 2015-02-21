@@ -1,0 +1,1 @@
+-g -Wall   -fno-stack-protector  -DHAVE_PCAP -DXMLPARSER=libxml -DWITH_PARSIM -DWITH_NETBUILDER  -I. -I/Users/ernst/Desktop/IMAGES/PROGRAMS/omnetpp-4.2.2/include
